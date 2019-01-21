@@ -14,7 +14,7 @@ gem 'jbuilder', '~> 2.5'
 
 group :development, :test do
   gem 'mysql2'
-  gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
+  gem 'byebug'
 end
 
 group :development do
